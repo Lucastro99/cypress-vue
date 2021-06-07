@@ -17,7 +17,7 @@ npm run build
 
 ### Run your end-to-end tests
 ```
-npm run test:e2e
+npx cypress open
 ```
 
 ### Customize configuration
